@@ -1,0 +1,51 @@
+table{
+    font-family: Arial;
+    border: solid 1px; 
+    border-color: #DDDDDD;
+}
+.titColuna{
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+.titNum1{
+    color: #003366;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 40px;
+}
+.titNum2{
+    color: #1398BE;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.titNum3{
+    color: #DE9800;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.titNum4{
+    color: #CCCCCC;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.titNum5{
+    color: #c91b04;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.nomeTime{
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+    width: 200px;
+}
